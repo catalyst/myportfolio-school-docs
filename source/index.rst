@@ -8,6 +8,7 @@ Contents:
    :maxdepth: 3
    :numbered:
 
+   intro
    /faq/support
    /faq/troubleshooting
    /faq/portfolios
