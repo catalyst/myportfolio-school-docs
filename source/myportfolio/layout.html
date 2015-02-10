@@ -1,0 +1,78 @@
+{% extends "basic/layout.html" %}
+
+{%- block extrahead %}
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="{{ pathto('_static/ie6.css', 1) }}" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+{%- if theme_favicon %}
+<link rel="shortcut icon" href="{{ pathto('_static/'+theme_favicon, 1) }}"/>
+{%- endif %}
+
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.catalyst-au.net/" : "http://piwik.catalyst-au.net/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 14);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.catalyst-au.net/piwik.php?idsite=14" style="border:0" alt="" /></p></noscript>
+{% endblock %}
+
+{% block header %}
+
+<div class="header-small">
+    {%- if theme_logo %}
+    {% set img, ext = theme_logo.split('.', -1) %}
+    <div class="logo-small">
+        <a href="{{ pathto(master_doc) }}">
+            <img class="logo" src="{{ pathto('_static/%s-small.%s' % (img, ext), 1)}}" alt="Logo"/>
+        </a>
+    </div>
+    {%- endif %}
+</div>
+{% endblock %}
+
+{%- macro relbar() %}
+<div class="related">
+    <h3>{{ _('Navigation') }}</h3>
+    <ul>
+        {%- for rellink in rellinks %}
+        <li class="right" {% if loop.first %}style="margin-right: 10px"{% endif %}>
+            <a href="{{ pathto(rellink[0]) }}" title="{{ rellink[1]|striptags|e }}"
+            {{ accesskey(rellink[2]) }}>{{ rellink[3] }}</a>
+            {%- if not loop.first %}{{ reldelim2 }}{% endif %}
+        </li>
+        {%- endfor %}
+        {%- block rootrellink %}
+        <li><a href="{{ pathto(master_doc) }}">{{ docstitle|e }}</a>{{ reldelim1 }}</li>
+        {%- endblock %}
+        {%- for parent in parents %}
+          <li><a href="{{ parent.link|e }}" {% if loop.last %}{{ accesskey("U") }}{% endif %}>{{ parent.title }}</a>{{ reldelim1 }}</li>
+        {%- endfor %}
+        {%- block relbaritems %} {% endblock %}
+    </ul>
+</div>
+{%- endmacro %}
+
+{%- block sidebarlogo %}{%- endblock %}
+{%- block sidebarsourcelink %}{%- endblock %}
+
+{%- block footer %}
+    <div class="footer">
+    {%- if show_copyright %}
+      {%- if hasdoc('copyright') %}
+        {% trans path=pathto('copyright'), copyright=copyright|e %}The MyPortfolio Documentation is licensed under your choice of <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 unported</a> or <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version 3 or later</a>{{ copyright }}.{% endtrans %}
+      {%- else %}
+        {% trans copyright=copyright|e %}The MyPortfolio Documentation is licensed under your choice of <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 unported</a> or <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version 3 or later</a> {{ copyright }}.{% endtrans %}
+      {%- endif %}
+    {%- endif %}
+    {%- if last_updated %}
+      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
+    {%- endif %}
+    {%- if show_sphinx %}
+      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
+    {%- endif %}
+    </div>
+{%- endblock %}
