@@ -10,5 +10,6 @@ Contents:
 
    intro
    /faq/support
+   /admin/index
    /faq/troubleshooting
    /faq/portfolios
