@@ -61,3 +61,13 @@ The following video formats can be embedded within MyPortfolio. Some may require
 * WMV (requires a plugin on non-Windows computers)
 
 In addition, MP3 files can be used in the "Internal media" block as well and played directly in MyPortfolio.
+
+I don't like the design thas is applied to my portfolio pages. How do I change it?
+------------------------------------------------------------------------------------------
+
+#. If you want to change only your portfolio, you can `create a skin <http://manual.mahara.org/en/1.10/portfolio/skins.html>`_ and apply that on top of the current theme overwriting its styles.
+
+   .. note::
+     You may need to ask your institution administrator to allow skins for your school if you do not see the **Skins** menu item under **Portfolio**.
+
+#. If you don't want your school to use the default theme, you can ask your school's administrator on MyPortfolio to choose a different built-in theme which would then be used by everyone in your school. If skins are allowed, you can also overwrite these styles for more flexibility in the look of your portfolio.
