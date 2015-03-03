@@ -118,7 +118,7 @@ img {
 p a.reference em {
     color: #d06646; /** colour terracotta**/
 }
-strong, b, em {
+em {
     color: #338c95; /** colour teal**/
 }
 a.reference em {
