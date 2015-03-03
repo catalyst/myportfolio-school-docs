@@ -6,3 +6,4 @@ When schools sign up to MyPortfolio, the administrators can manage many aspects 
 .. toctree::
 
    /admin/responsibilities
+   /admin/setup
