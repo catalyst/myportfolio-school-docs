@@ -1,6 +1,6 @@
 
-Welcome to the FAQ for MyPortfolio Schools
-===============================================
+Welcome to the documentation for MyPortfolio Schools
+=======================================================
 
 Contents:
 
