@@ -32,14 +32,14 @@ You have several options for creating accounts for your students and teachers. T
 #. **Bulk account creation**: If you need to set up several accounts at once and don't use an external authentication method, create accounts via a CSV file. Check the Mahara user manual for `more information on how to create accounts in bulk <http://manual.mahara.org/en/1.10/administration/users.html#add-and-update-users-by-csv>`_.
 #. **Single sign-on** (via SAML): If you use SSO at your school (see the `Identity and Access Management website <https://sites.google.com/site/schoolsiamsso/>`_), you can allow your students and teachers to use their regular logins also for MyPortfolio. Check the Mahara user manual for the `details that the site administrator would need from you in order to set up SSO <http://manual.mahara.org/en/1.10/administration/institutions.html#saml-authentication>`_.
 
-  .. note::
-    SSO is often used in conjunction with automatic account creation via Moodle. If you do not use Moodle, you should create accounts in bulk with the SSO information so that your users don't need to register individually.
+   .. note::
+      SSO is often used in conjunction with automatic account creation via Moodle. If you do not use Moodle, you should create accounts in bulk with the SSO information so that your users don't need to register individually.
 
 #. **Moodle**: If you use Moodle, you can `set up MNet <http://manual.mahara.org/en/1.10/administration/institutions.html#xml-rpc-mnet-authentication>`_ in order to log in to MyPortfolio. This allows you to:
 
-  * Log in to MyPortfolio via Moodle.
-  * Transfer content from Moodle to MyPortfolio.
-  * Use the `Mahara assignment submission plugin <https://moodle.org/plugins/view/assignsubmission_mahara>`_ (if installed on Moodle) for portfolio assessment.
+   * Log in to MyPortfolio via Moodle.
+   * Transfer content from Moodle to MyPortfolio.
+   * Use the `Mahara assignment submission plugin <https://moodle.org/plugins/view/assignsubmission_mahara>`_ (if installed on Moodle) for portfolio assessment.
 
 #. **LDAP / Active Directory**: If you have your users in LDAP / Active Directory, this can be hooked up to MyPortfolio and you can even do user and group sync. Check the Mahara user manual for the `details that the site administrator would need from you in order to set up LDAP / AD <http://manual.mahara.org/en/1.10/administration/institutions.html#ldap-authentication>`_.
 
