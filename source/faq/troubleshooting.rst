@@ -71,3 +71,15 @@ I don't like the design thas is applied to my portfolio pages. How do I change i
      You may need to ask your institution administrator to allow skins for your school if you do not see the **Skins** menu item under **Portfolio**.
 
 #. If you don't want your school to use the default theme, you can ask your school's administrator on MyPortfolio to choose a different built-in theme which would then be used by everyone in your school. If skins are allowed, you can also overwrite these styles for more flexibility in the look of your portfolio.
+
+Who is administrator on MyPortfolio for my school?
+----------------------------------------------------------
+
+Administrators as well as an institution's staff are listed on a special page so you can contact them easily.
+
+#. Click on your name in the top right of the screen or in the login box. You'll be taken to your profile page.
+#. On your profile page, you see "Member of...". Click the link to your institution. On the next page...
+#. You see all administrators and staff members listed for your institution.
+
+.. note::
+   If your school does not have an administrator listed, nobody would respond to your administration queries. You can `contact the site administration team <http://myportfolio.school.nz/contact.php>`_ if you need assistance from an administrator.
