@@ -7,3 +7,4 @@ When schools sign up to MyPortfolio, the administrators can manage many aspects 
 
    /admin/responsibilities
    /admin/setup
+   /admin/account_maintenance
