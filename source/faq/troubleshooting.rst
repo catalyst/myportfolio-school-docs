@@ -24,7 +24,7 @@ My page is not accessible to others
 
 Check that you have set any access permissions for the page or collection that you want to share. Go to *Portfolio → Shared by me* and click the *Edit access* icon next to the page or collection that you want to share. Make sure that the person you want to share your portfolio with is listed on the right under "Added".
 
-See the user manual for more information on `how to give someone access to your portfolio <http://manual.mahara.org/en/1.10/portfolio/share.html>`_.
+See the user manual for more information on `how to give someone access to your portfolio <http://manual.mahara.org/en/15.10/portfolio/share.html>`_.
 
 Some of the functions in MyPortfolio don't work
 --------------------------------------------------------
@@ -65,7 +65,7 @@ In addition, MP3 files can be used in the "Internal media" block as well and pla
 I don't like the design thas is applied to my portfolio pages. How do I change it?
 ------------------------------------------------------------------------------------------
 
-#. If you want to change only your portfolio, you can `create a skin <http://manual.mahara.org/en/1.10/portfolio/skins.html>`_ and apply that on top of the current theme overwriting its styles.
+#. If you want to change only your portfolio, you can `create a skin <http://manual.mahara.org/en/15.10/portfolio/skins.html>`_ and apply that on top of the current theme overwriting its styles.
 
    .. note::
      You may need to ask your institution administrator to allow skins for your school if you do not see the **Skins** menu item under **Portfolio**.

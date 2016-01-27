@@ -18,7 +18,7 @@ As administrator for your school on MyPortfolio, you are expected to do the foll
   * Approve or deny registrations from people wanting to register for your school if you allow registrations.
   * Create accounts for your users if you don't want them to register individually.
 
-* Decide on the settings for your school, esp. on the `institution settings <http://manual.mahara.org/en/1.10/administration/institutions.html#edit-an-institution>`_.
+* Decide on the settings for your school, esp. on the `institution settings <http://manual.mahara.org/en/15.10/administration/institutions.html#edit-an-institution>`_.
 
 .. note::
 
