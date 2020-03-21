@@ -54,3 +54,5 @@ In order to assist you with an issue you are experiencing, it is important that 
 #. The browser and version of it. Usually, you can find that information when you click the 'Help' icon in your browser's menu bar and then 'About'.
 #. The name and version of your operating system, e.g. Windows 10, Mac OS 10.10, Ubuntu 18.10.
 #. If your problem is best illustrated by a screenshot or a short screen recording, please include that. You can also draw on it and point out the issue. If you are sending a screenshot, please send your issue report to `support@myportfolio.school.nz <mailto:support@myportfolio.school.nz>`_ as the online form does not allow you to upload a file.
+
+Please include the phone number under which you can be reached in case it is necessary to discuss any details that are better asked over the phone.
