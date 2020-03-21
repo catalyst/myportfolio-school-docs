@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'MyPortfolio Schools'
-copyright = u'2016, MyPortfolio Schools Support'
+copyright = u'2020, MyPortfolio Schools Support'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -248,7 +248,7 @@ texinfo_documents = [
 epub_title = u'MyPortfolio Schools'
 epub_author = u'MyPortfolio Schools Support'
 epub_publisher = u'MyPortfolio Schools Support'
-epub_copyright = u'2016, MyPortfolio Schools Support'
+epub_copyright = u'2020, MyPortfolio Schools Support'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
