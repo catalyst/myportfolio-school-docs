@@ -8,7 +8,7 @@ MyPortfolio is based on the open source ePortfolio system `Mahara <https://mahar
 Who can use MyPortfolio?
 ----------------------------------------
 
-MyPortfolio is available to schools for free in Aotearoa in New Zealand. If your school is listed on the `Education counts web site <https://www.educationcounts.govt.nz/find-school>`_, you can request to be signed up.
+MyPortfolio is available to schools for free in Aotearoa New Zealand. If your school is listed on the `Education counts web site <https://www.educationcounts.govt.nz/find-school>`_, you can request to be signed up.
 
 MyPortfolio is also open to certain support organisations and tertiary education departments in New Zealand that train future teachers or support teachers professionally. `Get in touch with us <https://myportfolio.school.nz/contact.php>`_ if you are unsure whether you can use MyPortfolio.
 
