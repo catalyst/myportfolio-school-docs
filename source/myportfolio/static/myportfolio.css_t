@@ -10,6 +10,7 @@
  *
  */
 
+@import url("https://use.fontawesome.com/releases/v5.11.2/css/all.css");
 @import url("basic.css");
 
 /******************** Fonts ********************/
@@ -276,7 +277,7 @@ div.seealso {
     padding: 10px 20px 10px 50px !important;
 	min-height: 26px;
 }
-div.note {    
+div.note {
     background: #FFFFFF url("dialog-note.png") no-repeat scroll 10px 8px;
     border: 2px solid #e2dedb; /* colour darker light grey */
     padding: 10px 20px 10px 50px !important;
@@ -302,7 +303,7 @@ div.topic {
 }
 
 
-/** header css  ----------------------------------------------------------**/ 
+/** header css  ----------------------------------------------------------**/
 div.logo-small {
 	text-align: left;
 	padding-left: 8px;
