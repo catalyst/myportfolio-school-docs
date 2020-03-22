@@ -1,0 +1,9 @@
+.. |edit access| raw:: html
+
+   <i class="fas fa-lock fa-fw fa-1x"></i>
+
+.. |secret url| raw:: html
+
+   <i class="fas fa-globe fa-fw fa-1x"></i>
+
+.. |link to institution page| image:: /images/institution_link.*
