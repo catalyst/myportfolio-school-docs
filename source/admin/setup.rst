@@ -1,4 +1,4 @@
-Setting up your school on MyPortfolio
+Set up your school on MyPortfolio
 -----------------------------------------------------
 
 Congratulations on wanting to use MyPortfolio. Here you can find more information on setting up your school.
