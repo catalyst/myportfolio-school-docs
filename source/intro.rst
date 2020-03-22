@@ -12,6 +12,37 @@ MyPortfolio is available to schools for free in Aotearoa New Zealand. If your sc
 
 MyPortfolio is also open to certain support organisations and tertiary education departments in New Zealand that train future teachers or support teachers professionally. `Get in touch with us <https://myportfolio.school.nz/contact.php>`_ if you are unsure whether you can use MyPortfolio.
 
+Can I use MyPortfolio only for ePortfolios?
+------------------------------------------------
+
+While MyPortfolio is primarily a portfolio platform, it can support a variety of learning and teaching scenarios that go beyond 'pure' portfolio work:
+
+* Students create and upload content to then share progress on project work, e.g. 123Tech and impact projects, and invite others online (in the school or beyond school boundaries) to comment on the work.
+* Students receive constructive feedback from students, teachers, and whānau.
+* Students and teachers reflect on learning and share these reflections privately or publicly.
+* Groups engage in forum discussions and create and share content collaboratively.
+* Students and teachers embed content from external sites and video sharing platforms.
+* Teachers create templates for students to use as basis for their own projects.
+* Teachers link to virtual classrooms and upload or embed recordings as needed.
+* Students and teachers navigate in te reo Māori or English, and they can create content in any language.
+* Teachers create appraisal portfolios with built-in support for Standards for the Teaching Profession, Tātaiako, and Tapasā.
+
+What are some examples?
+--------------------------
+
+* Use readily available templates that you can adapt further if you like and make them your own. Your students can then copy them.
+
+  * `'Increasingly digital' curiosity cards <https://myportfolio.school.nz/view/view.php?id=765008>`_
+  * `Key competency goals <https://myportfolio.school.nz/user/heheboy/heath-key-competency-goals-template>`_
+  * `Thinking hats <https://myportfolio.school.nz/user/heheboy/camp-thinking-hats-reflection-1>`_
+
+* Impact project progress tracking and reflections
+* Book report, incorporating additional online resources
+* Career goal setting and completing activities around that
+* Group project, sharing the progress on the project as well as a final report
+* Creative writing, including visual design elements
+* Collect all online created content in a central space for easy access
+
 Does MyPortfolio need to be installed by my school?
 ------------------------------------------------------
 
@@ -25,4 +56,4 @@ If you are not already using MyPortfolio, check if you can see your school in th
 .. note::
    Not all schools allow students and teachers to self-register. Your school may not be listed there. You can still sign up your school and use MyPortfolio.
 
-If you cannot find it in the list of schools that allow self-registration, you can `sign it up <https://myportfolio.school.nz/registration.php>`_. Preferably, you will then be the administrator for your school on MyPortfolio. You can always nominate another teacher or staff for that role later.
+If you can't find it in the list of schools that allow self-registration, you can `sign it up <https://myportfolio.school.nz/registration.php>`_. Preferably, you will then be the administrator for your school on MyPortfolio. You can always nominate another teacher or staff for that role later.
