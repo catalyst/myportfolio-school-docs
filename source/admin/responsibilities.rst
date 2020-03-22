@@ -1,7 +1,7 @@
 Administrator responsibilities
 -----------------------------------------------------
 
-MyPortfolio is provided for free to New Zealand schools through support from the `Catalyst <https://catalyst.net.nz>`_. To provide the service for free and without advertisement, Catalyst asks that schools are involved in the administration of students and teachers on the site to facilitate in particular:
+MyPortfolio is provided for free to New Zealand schools through support from `Catalyst <https://catalyst.net.nz>`_. To provide the service for free and without advertisement, Catalyst asks that schools are involved in the administration of students and teachers on the site to facilitate in particular:
 
 * Creating or approving accounts, ensuring that only the school's students and teachers have accounts
 * Dealing with misbehaviour
